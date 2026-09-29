@@ -1,4 +1,4 @@
-![Github Cover](https://github.com/user-attachments/assets/dffe651b-8d74-40df-8fbd-5e71f10a0873)
+![Github Cover]()
 
 
 # HackerNoon's Pixel Icon Library
